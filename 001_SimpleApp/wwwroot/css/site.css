@@ -20,3 +20,14 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.field-name {
+    text-decoration: underline;
+    font-weight: 1000;
+}
+
+.availability-state{
+    color: gray;
+    padding-left: 20px;
+    font-size: 10px;
+}
